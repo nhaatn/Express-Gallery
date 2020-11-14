@@ -13,7 +13,7 @@
 - Emil Joeseph (trouble shooting)
 
 ### Summary:
-- This assignment demonstrates the usage of making an express website using view engine, fetch() for gallery, and customdules.
+- This assignment demonstrates the usage of making an express website using view engine, fetch() for gallery, and custom modules.
 
 ### Additional Comments:
 - I initially found it difficult to figure out how to piece everything together as there were a lot of codes in the package, but once I did it made a lot more sense and felt very rewarding. 
